@@ -22,7 +22,7 @@ footer {
     align-items: center;
     justify-content: center; 
     gap: 110px;
-    z-index: 2;
+    z-index: 2; 
     border: 1px solid #DBDBDB;
 }
 
