@@ -13,7 +13,7 @@ ion-icon {
 /* CSS Footer */
 footer {
     display: none;
-    height: 54px;
+    height: 54px; 
     width: 100%;
     background:#FFFFFF;
     position: fixed;
