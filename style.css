@@ -246,7 +246,7 @@ video {
 }
 .likes {
     display: flex;
-    align-items: center;
+    align-items: center; 
     font-size: 14px;
     line-height: 16.41px;
     margin-bottom: 10px;
