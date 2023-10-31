@@ -122,7 +122,7 @@ main{
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-between;
-}
+} 
 
 /* CSS Stories */
 .stories {
