@@ -23,7 +23,7 @@ footer {
     justify-content: center; 
     gap: 110px;
     z-index: 2; 
-    border: 1px solid #DBDBDB;
+    border: 1px solid #DBDBDB; 
 }
 
 /* CSS Header */
