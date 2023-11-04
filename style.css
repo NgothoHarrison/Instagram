@@ -154,7 +154,7 @@ main{
 .story {
     width: 78px;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     justify-content: center;
     align-items: center;
     margin-right: 2px;
