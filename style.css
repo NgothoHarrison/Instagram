@@ -123,7 +123,7 @@ main{
     flex-flow: column nowrap;
     justify-content: space-between;
 } 
-
+ 
 /* CSS Stories */
 .stories { 
     width: 614px;
