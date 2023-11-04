@@ -293,7 +293,7 @@ video {
 .comments h1 {
     color: #8E8E8E;
     cursor: pointer;
-    margin-bottom: 5px;
+    margin-bottom: 5px; 
 }
 
 .comments p {
