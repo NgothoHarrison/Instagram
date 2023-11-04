@@ -96,7 +96,7 @@ header.mobile ion-icon {
     border-radius: 3px;
 }
 
-.top-container input::placeholder {
+.top-container input::placeholder { 
     color: #979797;
     opacity: 1;
 }
