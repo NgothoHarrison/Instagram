@@ -47,7 +47,7 @@ header.mobile {
     display: none;
     justify-content: space-between;
     align-items: center;
-}
+} 
 
 header.mobile ion-icon {
     margin: auto 20px; 
