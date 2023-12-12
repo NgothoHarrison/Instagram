@@ -41,7 +41,7 @@ header {
 
 header.desktop {
     display: flex;
-}
+} 
 
 header.mobile {
     display: none;
